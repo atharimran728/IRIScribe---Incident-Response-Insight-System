@@ -107,4 +107,6 @@ Time Range:
 
 This makes it extremely fast to understand long-running captures or IR case logs.
 
+##
+
 Pull requests welcome - improvements to parsing, enrichment, or formatting are appreciated
