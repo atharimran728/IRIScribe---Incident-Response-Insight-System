@@ -1,4 +1,4 @@
-# Automated Incident Response Notes Export Pipeline
+# IRIScribe - Incident Response Insight System
 
 A lightweight Python utility that converts Suricata `eve.json` telemetry into structured, analyst-ready Incident Response notes.  
 Instead of manually digging through thousands of events, this script automatically produces a complete Markdown report set:
